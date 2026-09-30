@@ -1,4 +1,4 @@
-#the scripts harvests set=sao from Libris and stores the output in the path provided in OUTPUT_FILE
+#the script harvests set=sao from Libris and stores the output in the path provided in OUTPUT_FILE
 import time
 import requests
 from lxml import etree
